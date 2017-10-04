@@ -1,0 +1,760 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"current",
+				"current_ch"
+			],
+			[
+				"Ja",
+				"JavaTokenType"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "wci/frontend/pascal/PascalToken.h",
+			"settings":
+			{
+				"buffer_size": 6135,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wci/frontend/pascal/PascalToken.cpp",
+			"settings":
+			{
+				"buffer_size": 4274,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wci/frontend/pascal/tokens/PascalSpecialSymbolToken.cpp",
+			"settings":
+			{
+				"buffer_size": 3027,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wci/intermediate/icodeimpl/ICodeNodeImpl.h",
+			"settings":
+			{
+				"buffer_size": 6466,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wci/intermediate/icodeimpl/ICodeNodeImpl.cpp",
+			"settings":
+			{
+				"buffer_size": 6156,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wci/frontend/pascal/parsers/StatementParser.cpp",
+			"settings":
+			{
+				"buffer_size": 5331,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wci/frontend/pascal/parsers/WhenStatementParser.h",
+			"settings":
+			{
+				"buffer_size": 1335,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wci/frontend/pascal/parsers/WhenStatementParser.cpp",
+			"settings":
+			{
+				"buffer_size": 2796,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wci/frontend/pascal/parsers/CaseStatementParser.h",
+			"settings":
+			{
+				"buffer_size": 3615,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wci/frontend/pascal/parsers/CaseStatementParser.cpp",
+			"settings":
+			{
+				"buffer_size": 9790,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/angel/Qsync/School/2017_Fall/CMPE152/HW3"
+	],
+	"file_history":
+	[
+		"/C/Users/angel/Qsync/School/2017_Fall/CMPE152/HW3/wci/frontend/pascal/parsers/IfStatementParser.cpp",
+		"/C/Users/angel/Qsync/School/2017_Fall/CMPE152/HW3/wci/frontend/pascal/parsers/IfStatementParser.h",
+		"/C/Users/angel/Qsync/School/2017_Fall/CMPE152/HW3/makefile",
+		"/C/Users/angel/Qsync/School/2017_Fall/CMPE152/hw2sara/CMPE152/Assignment2/wci/frontend/FrontendFactory.cpp",
+		"/C/Users/angel/Qsync/School/2017_Fall/CMPE152/HW2/CMPE152/Assignment2/wci/frontend/java/JavaToken.h",
+		"/C/Users/angel/Qsync/School/2017_Fall/CMPE152/hw2sara/CMPE152/Assignment2/Java.cpp",
+		"/C/Users/angel/Qsync/School/2017_Fall/CMPE152/hw2sara/CMPE152/Assignment2/wci/frontend/java/JavaScanner.cpp",
+		"/C/Users/angel/Qsync/School/2017_Fall/CMPE152/hw2sara/CMPE152/Assignment2/wci/frontend/java/JavaParserTD.cpp",
+		"/C/Users/angel/Qsync/School/2017_Fall/CMPE152/hw2sara/CMPE152/Assignment2/wci/frontend/Parser.cpp",
+		"/C/Users/angel/Qsync/School/2017_Fall/CMPE152/hw2sara/CMPE152/Assignment2/wci/frontend/Scanner.cpp",
+		"/C/Users/angel/Qsync/School/2017_Fall/CMPE152/hw2sara/CMPE152/Assignment2/wci/frontend/pascal/PascalScanner.cpp",
+		"/C/Users/angel/Qsync/School/2017_Fall/CMPE152/hw2sara/CMPE152/Assignment2/wci/frontend/java/JavaScanner.h",
+		"/C/Users/angel/Qsync/School/2017_Fall/CMPE152/hw2sara/CMPE152/Assignment2/wci/frontend/pascal/PascalParserTD.cpp",
+		"/C/Users/angel/Qsync/School/2017_Fall/CMPE152/hw2sara/CMPE152/Assignment2/wci/frontend/Token.cpp",
+		"/C/Users/angel/Qsync/School/2017_Fall/CMPE152/hw2sara/CMPE152/Assignment2/wci/frontend/Token.h",
+		"/C/Users/angel/Qsync/School/2017_Fall/CMPE152/hw2sara/CMPE152/Assignment2/wci/frontend/java/JavaToken.cpp",
+		"/C/Users/angel/Qsync/School/2017_Fall/CMPE152/hw2sara/CMPE152/Assignment2/wci/frontend/java/JavaParserTD.h",
+		"/C/Users/angel/Qsync/School/2017_Fall/CMPE152/hw2sara/CMPE152/Assignment2/wci/frontend/Parser.h",
+		"/C/Users/angel/Qsync/School/2017_Fall/CMPE152/hw2sara/CMPE152/Assignment2/makefile_dependencies.txt",
+		"/C/Users/angel/Qsync/School/2017_Fall/CMPE152/hw2sara/CMPE152/Assignment2/makefile",
+		"/C/Users/angel/Qsync/School/2017_Fall/CMPE152/hw2sara/CMPE152/Assignment2/wci/frontend/Scanner.h",
+		"/C/Users/angel/Qsync/School/2017_Fall/CMPE152/hw2sara/CMPE152/Assignment2/wci/DataValue.h",
+		"/C/Users/angel/Qsync/School/2017_Fall/CMPE152/HW2/CMPE152/Assignment2/wci/frontend/java/JavaScanner.h",
+		"/C/Users/angel/Qsync/School/2017_Fall/CMPE152/HW2/CMPE152/Assignment2/wci/frontend/java/tokens/JavaSpecialSymbolToken.cpp",
+		"/C/Users/angel/Qsync/School/2017_Fall/CMPE152/hw2sara/CMPE152/Assignment2/wci/frontend/java/JavaToken.h",
+		"/C/Users/angel/Qsync/School/2017_Fall/CMPE152/HW2/CMPE152/Assignment2/wci/frontend/java/JavaToken.cpp",
+		"/C/Users/angel/Qsync/School/2017_Fall/CMPE152/HW2/CMPE152/Assignment2/wci/frontend/java/JavaScanner.cpp",
+		"/C/Users/angel/Qsync/School/2017_Fall/CMPE152/HW2/CMPE152/Assignment2/wci/frontend/java/tokens/JavaStringToken.cpp",
+		"/C/Users/angel/Qsync/School/2017_Fall/CMPE152/HW2/CMPE152/Assignment2/makefile",
+		"/C/Users/angel/Qsync/School/2017_Fall/CMPE152/hw2sara/CMPE152/Assignment2/Java.h",
+		"/C/Users/angel/Qsync/School/2017_Fall/CMPE152/HW2/CMPE152/Assignment2/wci/frontend/java/JavaParserTD.cpp",
+		"/C/Users/angel/Qsync/School/2017_Fall/CMPE152/HW2/CMPE152/Assignment2/wci/frontend/java/JavaParserTD.h",
+		"/C/Users/angel/Qsync/School/2017_Fall/CMPE152/HW2/CMPE152/Assignment2/wci/frontend/java/JavaErrorHandler.cpp",
+		"/C/Users/angel/Qsync/School/2017_Fall/CMPE152/HW2/CMPE152/Assignment2/wci/frontend/java/JavaErrorHandler.h",
+		"/C/Users/angel/Qsync/School/2017_Fall/CMPE152/HW2/CMPE152/Assignment2/wci/frontend/java/JavaError.cpp",
+		"/C/Users/angel/Qsync/School/2017_Fall/CMPE152/HW2/CMPE152/Assignment2/wci/frontend/java/JavaError.h",
+		"/C/Users/angel/Qsync/School/2017_Fall/CMPE152/HW2/CMPE152/Assignment2/wci/frontend/Token.cpp",
+		"/C/Users/angel/Qsync/School/2017_Fall/CMPE152/HW2/CMPE152/Assignment2/wci/frontend/FrontendFactory.cpp",
+		"/C/Users/angel/Qsync/School/2017_Fall/CMPE152/HW2/CMPE152/Assignment2/wci/frontend/FrontendFactory.h",
+		"/C/Users/angel/Qsync/School/2017_Fall/CMPE152/HW2/CMPE152/Assignment2/wci/frontend/Parser.h",
+		"/C/Users/angel/Qsync/School/2017_Fall/CMPE152/HW2/CMPE152/Assignment2/wci/frontend/Parser.cpp",
+		"/C/Users/angel/Qsync/School/2017_Fall/CMPE152/HW2/CMPE152/Assignment2/wci/frontend/Scanner.h",
+		"/C/Users/angel/Qsync/School/2017_Fall/CMPE152/HW2/CMPE152/Assignment2/wci/frontend/Scanner.cpp",
+		"/C/Users/angel/Qsync/School/2017_Fall/CMPE152/HW2/CMPE152/Assignment2/wci/frontend/Source.h",
+		"/C/Users/angel/Qsync/School/2017_Fall/CMPE152/HW2/CMPE152/Assignment2/wci/frontend/Source.cpp",
+		"/C/Users/angel/Qsync/School/2017_Fall/CMPE152/HW2/CMPE152/Assignment2/wci/frontend/Token.h",
+		"/C/Users/angel/Qsync/School/2017_Fall/CMPE152/HW1/widgets.csv",
+		"/C/Users/angel/Qsync/School/2017_Fall/CMPE152/HW1/datafiles.pas",
+		"/C/Users/angel/Qsync/School/2017_Fall/CMPE152/HW1/EmployeeListing.pas",
+		"/C/Users/angel/Qsync/School/2017_Fall/CMPE152/HW1/widgets.out",
+		"/C/Users/angel/Desktop/esp_test/esp_test.ino",
+		"/C/Users/angel/Qsync/School/2017_Spring/CMPE_140/Labs/Lab8/Lab8.srcs/sources_1/new/utility_Factorial.v",
+		"/C/Users/angel/Qsync/School/2017_Spring/CMPE_140/Labs/Lab8/Lab8.srcs/sources_1/new/memDecoder.v",
+		"/C/Users/angel/Qsync/School/2017_Spring/CMPE_140/Labs/Lab8/Lab8.srcs/sources_1/new/systemOnChip.v",
+		"/C/Users/angel/Qsync/School/2017_Spring/CMPE_140/Labs/Lab8/Lab8.srcs/sources_1/new/peripheral_Wrapper.v",
+		"/C/Users/angel/Qsync/School/2017_Spring/CMPE_140/Labs/Lab8/Lab8.srcs/sources_1/new/TB_SoC.v",
+		"/C/Users/angel/Qsync/School/2017_Spring/CMPE_140/Labs/Lab8/Lab8.srcs/sources_1/new/factAssem.dat",
+		"/C/Users/angel/Qsync/School/2017_Spring/CMPE_140/Labs/Lab8/Lab8.srcs/sources_1/new/gpio.v",
+		"/C/Users/angel/Qsync/School/2017_Spring/CMPE_140/Labs/Lab8/Lab8.srcs/sources_1/new/MIPS_Initial.v",
+		"/C/Users/angel/Qsync/School/2017_Spring/CMPE_140/Labs/Lab8/Lab8.srcs/sources_1/new/factorial.v",
+		"/C/Users/angel/Qsync/School/2017_Spring/CMPE_140/Labs/Lab8/Lab8.srcs/constrs_1/new/MIPS_top.xdc",
+		"/C/Users/angel/sampleBig.json",
+		"/C/Users/angel/trump_subdataset.json",
+		"/C/Users/angel/Qsync/School/VMShare/cmpe188/sampleBig.json",
+		"/C/Users/angel/Qsync/School/2017_Spring/CMPE_140/Labs/Lab8/Lab8.srcs/sources_1/new/TB_dp.v",
+		"/C/Users/angel/Qsync/School/2017_Spring/CMPE_140/Labs/Lab8/Lab8.srcs/sources_1/new/MIPS_top.v",
+		"/C/Users/angel/Qsync/School/2017_Spring/CMPE_140/Labs/Lab8/Lab8.srcs/sources_1/new/utility.v",
+		"/C/Users/angel/Qsync/School/2017_Spring/CMPE_140/Labs/Lab8/Lab8.srcs/sources_1/imports/Desktop/memfile_s.dat",
+		"/C/Users/angel/Qsync/School/2017_Spring/CMPE_140/Labs/Lab7/Lab7.srcs/sources_1/new/TB_dp.v",
+		"/C/Users/angel/Qsync/School/2017_Spring/CMPE_140/Labs/Lab8/Lab8.srcs/sources_1/new/memfile_s.dat",
+		"/C/Users/angel/Desktop/memfile.dat",
+		"/C/Users/angel/Qsync/School/VMShare/cmpe142/Lab6/142_P6.c",
+		"/C/Users/angel/Google Drive/SJSU/2017_Spring_Aaron/CMPE146/146_Project/Pinball_Classes04.14.17.c",
+		"/C/Users/angel/Desktop/142_P6.c",
+		"/C/Users/angel/Qsync/School/2017_Spring/CMPE_140/Labs/Lab7/Lab7.srcs/sources_1/new/TB_program.v",
+		"/C/Users/angel/Qsync/School/2017_Spring/CMPE_140/Labs/Lab7/Lab7.srcs/sources_1/new/TB_system.v",
+		"/C/Users/angel/Qsync/School/VMShare/cmpe142/Lab5/CMPE142-km.c",
+		"/C/Users/angel/Qsync/School/VMShare/cmpe142/Lab5/CMPE-142-S17-PP5-Gomez.txt",
+		"/C/Users/angel/Qsync/School/2017_Spring/CMPE_140/Labs/Lab7/Lab7.srcs/sources_1/imports/Lab6/memfile_s.dat",
+		"/C/Users/angel/Qsync/School/2017_Spring/CMPE_140/Labs/Lab7/Lab7.srcs/sources_1/new/TB_cu.v",
+		"/C/Users/angel/Qsync/School/2017_Spring/CMPE_146/Pinball/Pinball_Classes4.9.17.c",
+		"/C/Users/angel/Qsync/School/2017_Spring/CMPE_140/Labs/Lab7/Lab7.srcs/sources_1/imports/Lab6/MIPS_Initial.v",
+		"/C/SCE_Core/Core/js/pages/reimbursement-admin.js",
+		"/C/Users/angel/Qsync/School/VMShare/cmpe142/Lab4/Lab4.c",
+		"/C/Users/angel/Qsync/School/VMShare/cmpe142/Lab2/Lab2.c",
+		"/C/SCE_Core/Core/js/pages/reimbursement-add.js",
+		"/C/SCE_Core/Core/server-side/Reimbursement.php",
+		"/C/Users/angel/Qsync/School/VMShare/cmpe142/zombiefier.c",
+		"/C/SCE_Core/Core/server-side/Membership-Inquiry.php",
+		"/C/Users/angel/Google Drive/SJSU/Officers (SCE)/Development/Winter Development 2016-17/Database Investigation/database_dump_RJ.sql",
+		"/C/SCE_Core/Core/pages/reimbursement-add.html"
+	],
+	"find":
+	{
+		"height": 80.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"If",
+			"IF",
+			"If",
+			"IF",
+			"If",
+			"IF",
+			"If",
+			"IF",
+			"If",
+			"Case",
+			"WRITE_PARM",
+			"=",
+			"AND_AND",
+			"TILDA",
+			"[0",
+			"32'",
+			"[0x",
+			"tickTock;tickTock;tickTock;",
+			"tickTock;tickTock;tickTock;tickTock;",
+			"tic",
+			"0x",
+			"#",
+			"[",
+			"[0x000000]",
+			"0x",
+			"dataad",
+			"aluoutem",
+			"aluout",
+			"instrIF",
+			"adderOut",
+			"[0x0",
+			"[0x00017C]",
+			"\n",
+			"0x",
+			"pcsrc",
+			"datapath",
+			"\n",
+			"datapath",
+			"reg",
+			"dreg",
+			"dmem",
+			"resultselout",
+			"writedata",
+			"resultselout",
+			"memtoreg",
+			"15'b",
+			"7:0",
+			"\n",
+			"\t# addi $sp, $zero, 48 ($sp = 48)\n[0x000004]\t",
+			"\n",
+			"\n           ",
+			"\n\t",
+			"201D0030",
+			"201D0030\n\t20040004\n\t0C000004\n\t00408020\n\t08000015\n\t23BDFFF8\n\tAFA40004\n\tAFBF0000\n\t20080002\n\t0088402A\n\t10080003\n\t20020001\n\t23BD0008\n\t03E00008\t\n\t2084FFFF\n\t0C000004\n\t8FBF0000\n\t8FA40004\n\t23BD0008\n\t00820019\n\t00001012\n\t03E00008\n\t00000000",
+			"201D0030",
+			"#",
+			"0x",
+			"0x20040004",
+			"0x00000C",
+			"0x000004",
+			"[0x000000]\t",
+			"0x",
+			"0x00001C",
+			"0x000018",
+			"[0x00001C]\t",
+			"[0x000018]\t",
+			"\t#",
+			"100",
+			"procBuffer_size",
+			"\tprocBuffer_size = size;\n",
+			"offset",
+			"proc_file",
+			"procfs_buffer",
+			"procfbuffer",
+			"write_proc",
+			"read_proc",
+			"following",
+			"maindec",
+			"pcbranch",
+			"jrsel",
+			"multen",
+			"resultselout",
+			"aluout",
+			"srca",
+			"pcplus4",
+			"pc",
+			"mux2sel",
+			"pcnext",
+			"writereg",
+			"jalSel",
+			"writereg",
+			"datapath",
+			"alude",
+			"result",
+			"pcplus4",
+			"adder",
+			"readdata",
+			"srcb",
+			"srca",
+			"datetime",
+			"dateTime",
+			"datetime",
+			"DEFAULT",
+			"--"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 7,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "wci/frontend/pascal/PascalToken.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6135,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3455,
+								3455
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3877.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "wci/frontend/pascal/PascalToken.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4274,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3991,
+								3991
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4788.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "wci/frontend/pascal/tokens/PascalSpecialSymbolToken.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3027,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2593,
+								2593
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2394.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "wci/intermediate/icodeimpl/ICodeNodeImpl.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6466,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4083,
+								4083
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5700.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "wci/intermediate/icodeimpl/ICodeNodeImpl.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6156,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1739,
+								1739
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "wci/frontend/pascal/parsers/StatementParser.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5331,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								489,
+								489
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "wci/frontend/pascal/parsers/WhenStatementParser.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1335,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1122,
+								1122
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 712.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "wci/frontend/pascal/parsers/WhenStatementParser.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2796,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								202,
+								202
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "wci/frontend/pascal/parsers/CaseStatementParser.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3615,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1254.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "wci/frontend/pascal/parsers/CaseStatementParser.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9790,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 79.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "HW3.sublime-project",
+	"replace":
+	{
+		"height": 100.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 478.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

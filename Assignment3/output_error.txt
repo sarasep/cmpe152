@@ -1,0 +1,43 @@
+001 BEGIN
+002     WHEN
+003         i := 3 => k > 5;
+            ^
+*** Undefined identifier [at "i"]
+              ^
+*** Missing When Right Arrow [at ":="]
+                 ^
+*** Missing := [at "3"]
+                   ^
+*** Missing ; [at "=>"]
+                   ^
+*** Unexpected token [at "=>"]
+                        ^
+*** Unexpected token [at ">"]
+                          ^
+*** Missing := [at "5"]
+004         m = n  :  m := 2*n;
+            ^
+*** Undefined identifier [at "m"]
+                ^
+*** Undefined identifier [at "n"]
+                   ^
+*** Missing When Right Arrow [at ":"]
+                      ^
+*** Missing := [at "m"]
+                        ^
+*** Missing ; [at ":="]
+                        ^
+*** Unexpected token [at ":="]
+                        ^
+*** Missing When Right Arrow [at ":="]
+                           ^
+*** Missing := [at "2"]
+005     END;
+        ^
+*** Unexpected token [at "END"]
+        ^
+*** Missing When Right Arrow [at "END"]
+           ^
+*** Missing := [at ";"]
+           ^
+*** Unexpected token [at ";"]

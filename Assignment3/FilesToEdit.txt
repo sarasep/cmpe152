@@ -1,0 +1,30 @@
+-pascalToken.h:WHENOTHERWISE RIGHT_ARROW PT_WHEN PT_OTHERWISE PT_RIGHT_ARROW
+DONE
+-pascalToken.cpp : "WHEN" "OTHERWISE" "=>"
+DONE
+-PascalSpecialSymbolTable.cpp
+???
+-ICodeNodeImp.h WHEN WHEN_BRANCH OTHERWISE
+DONE
+-ICodeNodeImp.cpp NT_WHEN  NT_WHEN_BRANCH   NT_OTHERWISE
+DONE
+-WhenStatmentParcer.h
+CREATED
+-WhenStatmentParser.cpp
+CREATED
+-StatmentParser.cpp PT_WHEN
+PT_WHEN, and a case
+DONE
+
+
+
+-WhenExecuter.h
+-WhenExecuter.cpp
+-StatmentExecuter.cpp
+
+
+
+
+
+Start with ch8 chapter8cpp.zip
+Modify the files listed above, in that order
